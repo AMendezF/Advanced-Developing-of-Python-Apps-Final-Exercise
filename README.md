@@ -1,6 +1,6 @@
 #  Advanced-Developing-of-Python-Apps-Final-Exercise
 
-This an exercise for a python advanced learning course.
+This is an exercise that I did for a python advanced learning course.
 
 The exercise is divided into two parts:
  
