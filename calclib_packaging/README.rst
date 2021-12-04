@@ -1,4 +1,4 @@
 calclib
 =======
 
-This an exercise for a python course. **calclib** is a Python library contains a float vector calculator with safe input check.
+This is an exercise for a python course. **calclib** is a Python library that contains a float vector calculator with safe input check.
