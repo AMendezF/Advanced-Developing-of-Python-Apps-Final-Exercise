@@ -28,7 +28,7 @@ def resta():
     
     return f'{result}\n'
 
-@app.route('/multi/', methods=['POST'])
+@app.route('/mult/', methods=['POST'])
 def multi():
     data = flask.request.json
     
